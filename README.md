@@ -9,7 +9,7 @@
 ALMADIN, Samantha I, - Rb02
 CRUZ, Jhea Eunice V. - Rb09
 NER, Arya Isabelle G. - Rb18
-### Date (Proposal Date)  : Nov 5, 2026
+### Date (Proposal Date)  : Nov 21, 2026
 
 ### Project Description:
 In the quiet night of Niš, Serbia, a halting scream broke the stillness. The next moment was a human heart on the asphalt, a body with a hole by its left side of the torso, and blood leaking out of the two items. The body of an honored general, torn apart tragically with no trace of a killer. This was clearly the work of the Key, a famous, yet anonymous serial killer roaming the city of Niš.
