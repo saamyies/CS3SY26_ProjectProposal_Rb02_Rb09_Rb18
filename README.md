@@ -21,7 +21,7 @@ The day after the tragic death of General Vailyn Asteroth Sinclair, another fold
 
 In this text-RPG, you play as Detective Ignatius, tasked to investigate the many serial cases of anonymous killer Key. Your job is to gather evidence, interrogate suspects and their connections, and correctly find the killer. You will be working with a pathologist who did the autopsy on your cousin’s body, Emil Alix Laurent. They will also accompany you in evidence-gathering. All detectives need a partner, after all.
 
-The game features various mechanics, such as:
+Beginner text-RPGs often rely on static, unchanging dialogue unaffected by the player's choices, use passive storytelling lacking engaging mechanics, and lack proper clue tracking and organization, reducing player engagement and replayability. Our game's system aims to address these issues---providing an interactive, story-driven detective text RPG that features various mechanics, such as:
 - A trust system for all characters (NPCs’ behavior and the difficulty of the case depends on this system)
 - Court record (witnesses/suspects, evidence record, information on victims)
 - Special actions during interrogations (pressing, presenting evidence)
