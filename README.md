@@ -28,11 +28,11 @@ The game features various mechanics, such as:
 	
 Moreover, the game will have some secret paths and endings the player may achieve according to what dialogue options they pick; just a little treat to touch the waters of each character’s story. Be sure to pay attention to every detail in each piece of evidence. We’re counting on you, Detective. 
 
+<img width="1291" height="697" alt="image" src="https://github.com/user-attachments/assets/4e14bc65-359f-49d9-8b87-7fa55b410af2" />
 
 ### Goals:
  
- The long-term outcome of our project is to give players a fun, replayable experience that adds a twist to standard Blackjack through dares. Using various Object-Oriented Programming concepts, our group will be to turn code on a screen into a working, interactive program that accurately simulates Blackjack game mechanics and rules.
- 
+ The long-term outcome of our project is to give players an immersive, story-driven mystery where players must
 - Objective 1: 
 - Objective 2: 
 - Objective 3: 
