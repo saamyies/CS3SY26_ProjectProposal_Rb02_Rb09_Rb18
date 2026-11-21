@@ -3,7 +3,7 @@
 
 ## Project Proposal Template:
 
-### Project Title or Name of the Application	: BlackJack
+### Project Title or Name of the Application	: Lock : Key
 ### Section			   	      : Rubidium
 ### Group Members			    :
 ALMADIN, Samantha I, - Rb02
