@@ -29,14 +29,15 @@ The game features various mechanics, such as:
 
 While this game focuses more on analytical and critical skills for players who enjoy such things, the game will also have some secret paths and endings the player may achieve according to what dialogue options they pick; just a little treat for players who enjoy stories outside of solving to touch the waters of each character’s story. Be sure to pay attention to every detail in each piece of evidence analytically, objectively, and with the best of your knowledge. We’re counting on you, Detective. 
 
-<img width="1291" height="697" alt="image" src="https://github.com/user-attachments/assets/4e14bc65-359f-49d9-8b87-7fa55b410af2" />
+<img width="1069" height="757" alt="image" src="https://github.com/user-attachments/assets/4b3d9711-8856-4848-8ff7-063c9910006b" />
+
 
 ### Goals:
  
- The long-term outcome of our project is to give players an immersive, story-driven mystery where players must
-- Objective 1: 
-- Objective 2: 
-- Objective 3: 
-- Objective 4: 
+ The long-term outcome of our project is to use CS3 Python OOP programming concepts to give players an immersive, story-driven mystery where players must question every move---every message from a person, carefully build trust with witnesses and suspects, and uncover contradictions to solve the mystery.
+- Objective 1: Build and test the basic game entity classees (Week 1)
+- Objective 2: Develop a trust and dialogue system (Week 2)
+- Objective 3: Add interrogation and chatting mechanics with other NPCs (Week 3)
+- Objective 4: Implement and build the story and plot (Week 4)
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
