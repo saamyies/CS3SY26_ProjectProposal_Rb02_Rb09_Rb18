@@ -27,20 +27,39 @@ Beginner text-RPGs often rely on static, unchanging dialogue unaffected by the p
 - Special actions during interrogations (pressing, presenting evidence)
 - Options to travel to different locations, talk to characters (sometimes optionally, for extra story points), and examine the scene
 
+Our game targets players who enjoy cracking murder-mysteries with careful observations and logic skills, as well as those who look for story-rich, choice-driven games where the simplest of choices could cost you everything.
+
 While this game focuses more on analytical and critical skills for players who enjoy such things, the game will also have some secret paths and endings the player may achieve according to what dialogue options they pick; just a little treat for players who enjoy stories outside of solving to touch the waters of each character’s story. Be sure to pay attention to every detail in each piece of evidence analytically, objectively, and with the best of your knowledge. We’re counting on you, Detective. 
 
 #### System Features & OOP Design: 
+##### Core Management Classes
+- Game; describes the central engine, manages player progress
+- CourtRecord; an organized database tracking discovered people and clues
+- TrustSystem; tracks how much trust a character has in the player, may affect how NPCs respond and reveal to the player
 
+##### Entity Classes
+- GameObj; serves as the parent class for interactive objects and characters in the game
+- Evidence (inherits from GameObj); represents clues, and items found by the player
+- Character (inherits from GameObj); represents NPCs that can be interacted with
+- Suspect (inherits from Character); represents persons of interest who may be the killer
+- Witness (inherits from Character); non-suspect characters who hold vital information and clues regarding the case
 
+##### Narrative Classes
+- Dialogue; lines and topics that are said by the NPCs when interacted with; some may be gated at specific trust levels
+- Statement; individual lines said by NPCs during an interrogation; the MC may press characters for more info regarding these statments, or present evidence proving any contradictions in a statement
+- Scene; serves as parent class for playable locations in the game
+- InvestigationScene (inherits from Scene); locations the player may travel to for clues, or to interact with characters in the area
+- InterrogationScene (inherits from Scene); triggers when interrogating and cross-examining a character; contains multiple statements the player may press or contradict
 <img width="1069" height="757" alt="image" src="https://github.com/user-attachments/assets/4b3d9711-8856-4848-8ff7-063c9910006b" />
 
 
 ### Goals:
  
  The long-term outcome of our project is to use CS3 Python OOP programming concepts to give players an immersive, story-driven mystery where players must question every move---every message from a person, carefully build trust with witnesses and suspects, and uncover contradictions to solve the mystery.
-- Objective 1: Build and test the basic game entity classees (Week 1)
-- Objective 2: Develop a trust and dialogue system (Week 2)
-- Objective 3: Add interrogation and chatting mechanics with other NPCs (Week 3)
-- Objective 4: Implement and build the story and plot (Week 4)
+- Objective 1: Build the core game management classes and system essential for player progress, and storage of any new findings
+- Objective 2: Implement interactive exploration system that allows players to inspect items, examine clues, and hold optional conversations with NPCs
+- Objective 3: Develop the interrogation and cross-examination mechanics enabling players to investigate a character's statements, press them for more details, and expose contradictions using found evidence
+- Objective 4: Add branching dialogue and story-choices only unlockable through specific sequences of events and actions
+- Objective 5: Write and add an immersive, thrilling story that captivates players and convinces them to uncover the truth
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
