@@ -29,6 +29,9 @@ Beginner text-RPGs often rely on static, unchanging dialogue unaffected by the p
 
 While this game focuses more on analytical and critical skills for players who enjoy such things, the game will also have some secret paths and endings the player may achieve according to what dialogue options they pick; just a little treat for players who enjoy stories outside of solving to touch the waters of each character’s story. Be sure to pay attention to every detail in each piece of evidence analytically, objectively, and with the best of your knowledge. We’re counting on you, Detective. 
 
+#### System Features & OOP Design: 
+
+
 <img width="1069" height="757" alt="image" src="https://github.com/user-attachments/assets/4b3d9711-8856-4848-8ff7-063c9910006b" />
 
 
